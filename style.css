@@ -28,7 +28,7 @@ h1{
    margin: auto;
    position: absolute;
    top: 200px;
-   left: 335px;
+   left: 500px;
    
 }
 .donate-button{
@@ -44,7 +44,7 @@ h1{
 .details-button{
     text-decoration: none;
     position: absolute;
-    left: 475px;
+    left: 600px;
     border-radius: 10px;
     background-color: rgb(225, 40, 56);
     padding: 10px 20px;
